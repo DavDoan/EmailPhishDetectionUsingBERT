@@ -3,12 +3,12 @@ The goal of this project was to build a machine learning model capable of identi
 The dataset used was derived from Enron's email dataset hosted by Carnegie Mellon University which includes 500,000 emails from 150 employees in 2003. The actual dataset used during training is a pre-labeled version of Enron's dataset found on Kaggle, authored by Naser Abdullah Alam and Amith Khandakar (dataset link: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=Enron.csv). This dataset included 'subject' and 'body' features with a binary-encoded label. This dataset was split into 80:10:10 as training:testing:validation. 
 
 For actual model training, we used Google's bert-base-uncased model on Hugging Face with training arguments:
-Learning rate: 2e-5
-Epochs: 5
-Batch size: 8
-Weight decay: 0.01
-Evaluation and saving strategy: Every epoch
-Best model selection: Based on validation accuracy
+* Learning rate: 2e-5
+* Epochs: 5
+* Batch size: 8
+* Weight decay: 0.01
+* Evaluation and saving strategy: Every epoch
+* Best model selection: Based on validation accuracy
 
 Overall, the model identified phishing attempts with high precision while keeping false negatives low, performing exceptionally well towards the Enron dataset by achieving a ~99.5% accuracy. 
 
