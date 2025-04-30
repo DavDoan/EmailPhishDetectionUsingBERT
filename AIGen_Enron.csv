@@ -1,0 +1,113 @@
+subject,body,label
+Action Required: Update Your Payment Information,"Dear user,
+
+We have suspended your Office 365 account due to suspicious activity. Please login immediately to restore access: [malicious-link]",1
+Team Sync Tomorrow at 10AM,You received 15 new messages in Slack. Tap here to view your summary.,0
+Urgent: MFA Verification Required,It’s time to reset your password. Click below to ensure continuous access to your account: [malicious-link],1
+Delivery Failed: Package Held at Warehouse,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Client Feedback on Demo,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Confirm Your Identity to Avoid Suspension,Unusual activity was detected from an IP address in Russia. Please reset your password to protect your account.,1
+Delivery Failed: Package Held at Warehouse,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Weekly Performance Report,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Confirm Your Identity to Avoid Suspension,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Urgent: MFA Verification Required,Verify your identity to prevent account suspension. This is your final notice: [malicious-link],1
+Confirm Your Identity to Avoid Suspension,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Fwd: Lunch Meeting Notes,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Updated Project Timeline,Your weekly performance report is now available. Please review and reach out with questions.,0
+Request for Access to Dashboard,Your weekly performance report is now available. Please review and reach out with questions.,0
+Dropbox Shared File: Invoice_2024.pdf,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Request for Access to Dashboard,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Your Office 365 Account Has Been Suspended,It’s time to reset your password. Click below to ensure continuous access to your account: [malicious-link],1
+Client Feedback on Demo,Your weekly performance report is now available. Please review and reach out with questions.,0
+Client Feedback on Demo,Can someone grant me access to the data visualization dashboard? I'm getting a 403 error.,0
+Fwd: Lunch Meeting Notes,Attached is the revised timeline for the product launch. Let me know if you have any concerns.,0
+Reset Your Password Immediately,It’s time to reset your password. Click below to ensure continuous access to your account: [malicious-link],1
+Reminder: Submit Your Timesheet,Can someone grant me access to the data visualization dashboard? I'm getting a 403 error.,0
+Your Office 365 Account Has Been Suspended,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Slack Message Summary for Today,You received 15 new messages in Slack. Tap here to view your summary.,0
+Action Required: Update Your Payment Information,We noticed an issue with your account information. Kindly verify your details here: [malicious-link],1
+Slack Message Summary for Today,Here are the meeting notes from our lunch with the client. Action items included.,0
+Updated Documentation Available,Your weekly performance report is now available. Please review and reach out with questions.,0
+Delivery Failed: Package Held at Warehouse,Your recent payment attempt failed. Update your payment method to avoid service interruption: [malicious-link],1
+Security Alert: Suspicious Login Attempt,"Dear user,
+
+We have suspended your Office 365 account due to suspicious activity. Please login immediately to restore access: [malicious-link]",1
+Unusual Activity Detected on Your Google Account,Verify your identity to prevent account suspension. This is your final notice: [malicious-link],1
+Confirm Your Identity to Avoid Suspension,"Dear user,
+
+We have suspended your Office 365 account due to suspicious activity. Please login immediately to restore access: [malicious-link]",1
+Unusual Activity Detected on Your Google Account,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Action Required: Update Your Payment Information,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Q2 Budget Planning,Here are the meeting notes from our lunch with the client. Action items included.,0
+Important: Verify Your Account,Alert: A login attempt was detected from an unrecognized device. Verify your identity to secure your account: [malicious-link],1
+Reminder: Submit Your Timesheet,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Reset Your Password Immediately,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Unusual Activity Detected on Your Google Account,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Team Sync Tomorrow at 10AM,Attached is the revised timeline for the product launch. Let me know if you have any concerns.,0
+Dropbox Shared File: Invoice_2024.pdf,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Unusual Activity Detected on Your Google Account,Alert: A login attempt was detected from an unrecognized device. Verify your identity to secure your account: [malicious-link],1
+Unusual Activity Detected on Your Google Account,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Q2 Budget Planning,"The client provided positive feedback about the feature demo. Great job, everyone!",0
+Team Sync Tomorrow at 10AM,Your weekly performance report is now available. Please review and reach out with questions.,0
+Urgent: MFA Verification Required,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Important: Verify Your Account,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Team Sync Tomorrow at 10AM,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Updated Project Timeline,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Confirm Your Identity to Avoid Suspension,Your recent payment attempt failed. Update your payment method to avoid service interruption: [malicious-link],1
+Slack Message Summary for Today,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Security Alert: Suspicious Login Attempt,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Request for Access to Dashboard,Can someone grant me access to the data visualization dashboard? I'm getting a 403 error.,0
+Urgent: MFA Verification Required,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Dropbox Shared File: Invoice_2024.pdf,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Weekly Performance Report,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Request for Access to Dashboard,You received 15 new messages in Slack. Tap here to view your summary.,0
+Unusual Activity Detected on Your Google Account,Verify your identity to prevent account suspension. This is your final notice: [malicious-link],1
+Important: Verify Your Account,Unusual activity was detected from an IP address in Russia. Please reset your password to protect your account.,1
+Action Required: Update Your Payment Information,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Delivery Failed: Package Held at Warehouse,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Delivery Failed: Package Held at Warehouse,Your recent payment attempt failed. Update your payment method to avoid service interruption: [malicious-link],1
+Weekly Performance Report,"Hi team,
+
+Just a reminder about the sync scheduled for tomorrow at 10AM. Please come prepared with updates.",0
+Client Feedback on Demo,Attached is the revised timeline for the product launch. Let me know if you have any concerns.,0
+Dropbox Shared File: Invoice_2024.pdf,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Reminder: Submit Your Timesheet,Here are the meeting notes from our lunch with the client. Action items included.,0
+Slack Message Summary for Today,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Reset Your Password Immediately,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Security Alert: Suspicious Login Attempt,You’ve received a secure document via Dropbox: Invoice_2024.pdf. View now: [malicious-link],1
+Updated Documentation Available,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Fwd: Lunch Meeting Notes,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Request for Access to Dashboard,"The client provided positive feedback about the feature demo. Great job, everyone!",0
+Delivery Failed: Package Held at Warehouse,Unusual activity was detected from an IP address in Russia. Please reset your password to protect your account.,1
+Q2 Budget Planning,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Slack Message Summary for Today,Your weekly performance report is now available. Please review and reach out with questions.,0
+Reminder: Submit Your Timesheet,Your weekly performance report is now available. Please review and reach out with questions.,0
+Team Sync Tomorrow at 10AM,Can someone grant me access to the data visualization dashboard? I'm getting a 403 error.,0
+Action Required: Update Your Payment Information,Your MFA device has been disconnected. Re-authenticate your session: [malicious-link],1
+Urgent: MFA Verification Required,"Dear user,
+
+We have suspended your Office 365 account due to suspicious activity. Please login immediately to restore access: [malicious-link]",1
+Reset Your Password Immediately,It’s time to reset your password. Click below to ensure continuous access to your account: [malicious-link],1
+Updated Project Timeline,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Updated Documentation Available,You received 15 new messages in Slack. Tap here to view your summary.,0
+Updated Project Timeline,Kindly review the Q2 budget and send your department's allocations by EOD Wednesday.,0
+Client Feedback on Demo,Your weekly performance report is now available. Please review and reach out with questions.,0
+Request for Access to Dashboard,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Security Alert: Suspicious Login Attempt,Alert: A login attempt was detected from an unrecognized device. Verify your identity to secure your account: [malicious-link],1
+Client Feedback on Demo,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Updated Documentation Available,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Team Sync Tomorrow at 10AM,We’ve updated the documentation for the backend services. Please review the new endpoints.,0
+Your Office 365 Account Has Been Suspended,Your recent payment attempt failed. Update your payment method to avoid service interruption: [malicious-link],1
+Team Sync Tomorrow at 10AM,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Security Alert: Suspicious Login Attempt,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Dropbox Shared File: Invoice_2024.pdf,Your package could not be delivered due to an address mismatch. Track and resolve the issue: [malicious-link],1
+Q2 Budget Planning,Can someone grant me access to the data visualization dashboard? I'm getting a 403 error.,0
+Dropbox Shared File: Invoice_2024.pdf,Unusual activity was detected from an IP address in Russia. Please reset your password to protect your account.,1
+Team Sync Tomorrow at 10AM,Please make sure to submit your timesheet before Friday 5PM to avoid delays in payroll.,0
+Weekly Performance Report,You received 15 new messages in Slack. Tap here to view your summary.,0
+Important: Verify Your Account,Your recent payment attempt failed. Update your payment method to avoid service interruption: [malicious-link],1
+Reminder: Submit Your Timesheet,"Hi team,
+
+Just a reminder about the sync scheduled for tomorrow at 10AM. Please come prepared with updates.",0
+Your Office 365 Account Has Been Suspended,Alert: A login attempt was detected from an unrecognized device. Verify your identity to secure your account: [malicious-link],1
+Request for Access to Dashboard,"The client provided positive feedback about the feature demo. Great job, everyone!",0
